@@ -1,0 +1,27 @@
+/* CSS Document */
+*{margin:0;padding:0}
+li{list-style:none}
+img{vertical-align:top;border:none}
+legend{display:none}
+fieldset{border:none}
+a{text-decoration:none}
+a:hover,a:active{text-decoration:none}
+
+.login_hd{background: url(image/banner_background.jpg) repeat;width: 1280px;height: 92px;}
+.login_logo{background:url(image/logo_PKU.png) no-repeat;float:right;width:414px;height:100px;}
+.login_logo{position:absolute;right:40px;top: -10px;}
+.login_title a{position: absolute;left: 40px;top: 15px;color: white;font-size: 45px;}
+.index_color{background:#7BBFE9;}
+
+.organization-chart{position:absolute;left:40px;width:480px;}
+.section-block-inner{background:#FFDE7F}
+.sec-title-pull-left{position:absolute;left:40px;}
+.result_address_phone{
+	position: absolute;
+	right: 235px;
+	top: 185px;
+	width: 345px;
+}
+.organization-block-wrapper{border:5px solid; color:#286c97 }
+.top-border-gold{border:5px solid;color:#FFDE7F;}
+.result_address_phone{width:500px;}
