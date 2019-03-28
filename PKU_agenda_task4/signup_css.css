@@ -1,0 +1,23 @@
+/* CSS Document */
+*{margin:0;padding:0}
+li{list-style:none}
+img{vertical-align:top;border:none}
+legend{display:none}
+fieldset{border:none}
+a{text-decoration:none}
+a:hover,a:active{text-decoration:none}
+
+.Signup_hd{background: url(image/banner_background.jpg) repeat;width: 1280px;height: 92px;}
+.index_logo{background:url(image/logo_PKU.png) no-repeat;float:right;width:414px;height:100px;}
+.index_logo{position:absolute;right:40px;top: -10px;}
+.index_title a{position: absolute;left: 40px;top: 15px;color: white;font-size: 45px;}
+.index_color{background:#7BBFE9;}
+.login-box-msg{color:#FFDE7F;margin-left: 50px;margin-top: 50px;margin-bottom: 20px; font-size: 40px}
+
+.form-control{position:relative;left:50px;width: 305px;height: 40px;border-color:#1C4B7E; }
+.verify{position:relative;left:50px;width: 100px; height:35px; margin-top:2px }
+.agree {position: relative;left: 50px}
+.btn{position: relative;left: 50px}
+.col-xs-4{position: relative;left: 50px;width: 120px;height: 30px;}
+.btn_btn-primary_btn-block_btn-flat{font-size: 20px;position:relative;left: 50px;}
+.text-center{position:relative;left:220px}

@@ -1,0 +1,71 @@
+/* CSS Document */
+*{margin:0;padding:0}
+li{list-style:none}
+img{vertical-align:top;border:none}
+legend{display:none}
+fieldset{border:none}
+a{text-decoration:none}
+a:hover,a:active{text-decoration:none}
+
+.login_hd{background: url(image/banner_background.jpg) repeat;width: 1280px;height: 92px;}
+.login_logo{background:url(image/logo_PKU.png) no-repeat;float:right;width:414px;height:92px;}
+.login_logo{position:absolute;right:40px;top: -10px;}
+.login_title a{position: absolute;left: 40px;top: 15px;color: white;font-size: 45px;}
+.index_color{background:#7BBFE9;}
+.index_background{background: url(image/index_background.jpeg) center no-repeat; float:right; width: 830px;height: 640px;}
+.login_main{background:url( image/矩形登录框_site2.jpg) no-repeat;float:right;height:420px;width:350px;margin:100px 50px 50px;position:absolute;}
+.login_form{width:272px;height:170px;padding:27px 28px 0 26px;color:#000101;position:relative; }
+
+.login_btn{text-align:center;color:white;margin:0;position:absolute; top:170px; left:150px; }
+
+.login_instruction{font-size:25px;position:absolute;left:30px;}
+.login_help a{float:right;color:white;position:absolute; top:-30px; right:0px;font-size:15px;}
+
+.username{height:57px;margin:52px 90px 13px}
+.password{height:57px;margin:-25px 90px 13px;}
+.username input,.password input{width:240px;height:47px;border:0;color:#999;font-size:14px;line-height:32px}
+.username input{position:absolute; top:100px; right:10px; }
+.password input{position:absolute; top:170px; right:10px; }
+
+.login_btn input{
+	background: url( image/button_site2.jpg) no-repeat;
+	border: 0;
+	width: 120px;
+	height: 42px;
+	cursor: pointer;
+	color: aliceblue;
+	font-size: 20px;
+	position: absolute;
+	top: 107px;
+	left: 44px;
+}
+
+
+.Signup_btn input{
+	background: url( image/button_site2.jpg) no-repeat;
+	border: 0;
+	width: 120px;
+	height: 42px;
+	cursor: pointer;
+	color: aliceblue;
+	font-size: 20px;
+	text-align: center;
+	margin: 0;
+	position: absolute;
+	top: 276px;
+	left: 33px;
+}
+.forget{position:absolute;top:360px;right:40px;}
+.username_image{position:absolute; top:100px;right:250px;}
+.password_image{position:absolute; top:170px;right:250px;}
+.remember {position:absolute;top:230px;right: 280px;}
+.remember_chinese {position:absolute;top:227px;right: 210px;}
+.copyright{
+	position: absolute;
+	bottom: -211px;
+	left: 47px;
+	width: 380px;
+}
+.bottom{position:absolute;bottom:50px;right:40px;}
+.bottom li {float:left; padding-right:10px;}
+.bottom li a{color:aliceblue}
